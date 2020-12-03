@@ -1,0 +1,12 @@
+name: python-aos
+channels:
+  - conda-forge
+dependencies:
+  - python=3
+  - xarray
+  - netcdf4
+  - cartopy
+  - jupyter
+  - scipy
+  - pip
+  - cmocean
