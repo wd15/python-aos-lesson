@@ -8,9 +8,9 @@ dependencies:
   - cartopy
   - jupyter
   - scipy
-  - pip
+  - pip:
+    - unit_conversion
+    - pdb
   - cmocean
   - pandas
   - cmdline_provenance
-  - unit_conversion
-  - pdb
