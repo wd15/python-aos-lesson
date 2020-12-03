@@ -10,3 +10,7 @@ dependencies:
   - scipy
   - pip
   - cmocean
+  - pandas
+  - cmdline_provenance
+  - unit_conversion
+  - pdb
