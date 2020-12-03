@@ -11,3 +11,4 @@ dependencies:
   - cmocean
   - pandas
   - cmdline_provenance
+  - matplotlib
