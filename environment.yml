@@ -12,3 +12,4 @@ dependencies:
   - pandas
   - cmdline_provenance
   - matplotlib
+  - basemap
