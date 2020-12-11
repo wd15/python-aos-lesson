@@ -28,5 +28,6 @@ in
       scipy
       pip
       cmocean
+      basemap
     ];
   }
